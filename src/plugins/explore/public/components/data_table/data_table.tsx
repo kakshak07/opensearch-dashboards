@@ -564,7 +564,7 @@ const DataTableUI = ({
           <FormattedMessage
             id="explore.howToSeeOtherMatchingDocumentsDescription"
             defaultMessage="These are the first {sampleSize} documents matching
-              your search, refine your search to see others."
+              your search, refine your search to see others datas."
             values={{ sampleSize }}
           />
 
